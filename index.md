@@ -35,6 +35,9 @@ explanations about its design choices, some of which being uncommon or
 even seemingly outrageous (e.g. lack of support for recursion, whole
 program deductive type analysis, postfix syntax...).
 
+T1 has been presented at [NorthSec 2019](https://www.nsec.io/). Here
+are [the slides](NorthSec-20190516.pdf).
+
 # License
 
 Everything here is provided under the [MIT license](LICENSE.html). This
